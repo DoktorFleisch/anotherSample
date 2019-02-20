@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "anotherSample",
+    "packageName": "de.application",
+    "packageFolder": "de/application",
+    "serverPort": 8067,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "MTg3MmU5NzYzMTJhYjRkYzk2ZGQxMjg4NWVhMDYzOTcwNjRiYmQ2MTE5Y2U4YmE0NTM0N2E0OTA5NTNiNDNiZDdkOWM5NDVhOTcyODQyYjM1ZmQwMjhkMTE0ZjJkMTBlNzZhNTZiYWNkYzBkMzc4YTU3YzVlYzVkZmZiZjJmNTQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "DoktorFleisch",
+  "repository-name": "anotherSample"
+}
